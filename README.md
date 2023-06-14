@@ -1,3 +1,3 @@
-# Techtalk-Demystifying-AI-and-gtihub
+# GitHub Coopilot Demystified
 Introduction session
 Hello everyone, welcome to the session
